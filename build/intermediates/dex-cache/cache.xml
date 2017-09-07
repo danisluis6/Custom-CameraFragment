@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_dc495c9b557c607ee021f144c7b44e644a392581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.0.0-alpha1_762e5b8c0c19b854e72b5f99164cf63c4c99bb9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.0.0-alpha1_fc21f63603657eb24a38f4a1c9cb9f5b72aac00f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="356606d6f9926391ded1bcd93072b4480e05ed2a">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a110209d825ea74fa5c360463a57d50b68db0e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ba7fa6986d8fa43e977ced92954c17d3b795231">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9119328a854b75114d0e95f9b740b92f76a100ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_cc78c97a2ea4b5df1f951f491c86fee2068e82ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.0.0-alpha1_92f3dc9e48c2643b37ea3b2fdcb92e0fea576489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.0.0-alpha1_a7c6ccf4216c94d3c707d95041c80258a9b69d3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.0.0-alpha1_ea582b6104e9de79f1d0df71059462dfeb380231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.0.0-alpha1_49d88534506aa1a440a40a04f72ed76391b8bee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.0.0-alpha1_1c83a848f9910802e76027daf814a62ac789690c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/lorence/Desktop/Custom-CameraFragment/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.0.0-alpha1_c7a9ff244a2a8d69cc9dd4ab47769e30aeec9891/classes.dex" />
+    </item>
+
+</items>

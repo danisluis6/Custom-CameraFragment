@@ -8,7 +8,13 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CameraUtils">
+
+        <activity android:name=".CameraUtils"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+
+        </activity>
+
+        <activity android:name=".SendFaxActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
